@@ -10,11 +10,11 @@
 [Jadons' Hub](https://linkedin.com/company/jadons-hub) We blend creative excellence with analytical precision to deliver solutions that are both beautiful and effective. We're an innovation space where ideas transform into impactful visual and data solutions. We bridge the worlds of design, technology, and analytics to create work that matters. 
 We **help businesses, students and sales executives uncover insights with data.**
 
-- 🔭 I’m currently working on **Data Analytics BootCamp 2026**
+- 🔭 We're currently working on **Data Analytics BootCamp 2026**
 
-- 🌱 I’m currently learning **Advance SQL queries and Python for AI/ML**
+- 🌱 We're currently learning **Advance SQL queries and Python for AI/ML**
 
-- 👯 I’m looking to collaborate on **Business Intelligence Analysis and Management**
+- 👯 We're looking to collaborate on **Business Intelligence Analysis and Management**
 
 - 👨‍💻 All of our projects are available at [https://bit.ly/m/Jadonsofficall](https://bit.ly/m/Jadonsofficall)
 
