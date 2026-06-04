@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/jadonsofficial" target="blank"><img src="https://img.shields.io/twitter/follow/jadonsofficial?logo=twitter&style=for-the-badge" alt="jadonsofficial" /></a> </p>
 
-[Jadons' Hub]([https://linkedin.com/company/jadons-hub]) We blend creative excellence with analytical precision to deliver solutions that are both beautiful and effective. We're an innovation space where ideas transform into impactful visual and data solutions. We bridge the worlds of design, technology, and analytics to create work that matters. 
+[Jadons' Hub](https://linkedin.com/company/jadons-hub) We blend creative excellence with analytical precision to deliver solutions that are both beautiful and effective. We're an innovation space where ideas transform into impactful visual and data solutions. We bridge the worlds of design, technology, and analytics to create work that matters. 
 We **help businesses, students and sales executives uncover insights with data.**
 
 - 🔭 I’m currently working on **Data Analytics BootCamp 2026**
@@ -28,11 +28,11 @@ We **help businesses, students and sales executives uncover insights with data.*
 
 - ⚡ Fun fact **We love teaching and grooming talents**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with us:</h3>
 <p align="left">
 <a href="https://twitter.com/jadonsofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jadonsofficial" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/jahbuikem anderson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jahbuikem anderson" height="30" width="40" /></a>
-<a href="https://fb.com/jahbuikem anderson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jahbuikem anderson" height="30" width="40" /></a>
+<a href="https://linkedin.com/company/jadons-hub" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jahbuikem anderson" height="30" width="40" /></a>
+<a href="https://www.facebook.com/JahbuikemAnderson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jahbuikem anderson" height="30" width="40" /></a>
 <a href="https://www.behance.net/jadonsofficiall" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="jadonsofficiall" height="30" width="40" /></a>
 </p>
 
